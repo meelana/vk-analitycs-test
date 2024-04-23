@@ -17,3 +17,13 @@
 
 Для выполнения задания можно использовать BI-систему на выбор - Superset или Power BI.
 Загрузи результаты в виде ссылки на презентацию со скринами шаблона отчета.
+
+
+
+Ответ: 
+
+Презентация: BI_report_Velibekova.pptx
+Дашборд Power BI: vk_testBI.pbix
+
+Презентация (гугл диск):
+https://docs.google.com/presentation/d/17Lkc3scsQpSTdnUPSgDJJ_9s3qvvnAUB/edit?usp=drive_link&ouid=115447370104951986890&rtpof=true&sd=true
